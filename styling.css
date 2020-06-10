@@ -5,12 +5,12 @@
 	color: #777;
 }
 #searchBar button {
-	background: #FB476B;
+	background: #4d645b;
 	border-color: transparent;
 	color: #fff;
 }
 #searchBar button:hover {
-	background: #FF9966;
+	background: #738d82;
 	border-color: transparent;
-	color: #FB476B;
+	color: #fff;
 }
