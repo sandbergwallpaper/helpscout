@@ -15,13 +15,3 @@
 	border-color: transparent;
 	color: #fff;
 }
-
-/* Category background */ 
-.category-list .category {
-	background-color:#f4f4f4;
-	border-bottom: 1px solid #DBDBDB;
-	border-radius: 3px;
-	border-left:0;
-	border-right:0;
-	border-top:0;
-}
