@@ -1,3 +1,4 @@
+/* Search bar styling */ 
 #searchBar .search-query {
 	background: #fff;
 	border-color: transparent;
@@ -13,4 +14,23 @@
 	background: #738d82;
 	border-color: transparent;
 	color: #fff;
+}
+
+.category-list .category {
+	background-color:#FFFFFF;
+	border-bottom: 1px solid #DBDBDB;
+	border-radius: 3px;
+	border-left:0;
+	border-right:0;
+	border-top:0;
+}
+
+/* Category background */ 
+.category-list .category {
+	background-color:##f4f4f4;
+	border-bottom: 1px solid #DBDBDB;
+	border-radius: 3px;
+	border-left:0;
+	border-right:0;
+	border-top:0;
 }
