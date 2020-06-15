@@ -25,3 +25,7 @@ body {
 	color: #fff !important;
 	border-radius: 16px;
 }
+
+.large-body {
+	font-size: 16px;
+}
